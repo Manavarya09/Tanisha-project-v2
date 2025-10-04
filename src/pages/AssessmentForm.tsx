@@ -12,6 +12,7 @@ import csvText from '../../AI_Readiness_Assessment_Core35.csv?raw';
 import airtableCsv from '../../Airtable AI Readiness File To Import (1).csv?raw';
 import { parseAssessmentCSVUnique } from '../utils/assessmentLogic';
 import AnimatedContent from '../components/AnimatedContent';
+import { createAirtableRecord } from '../lib/airtable';
 
 // Build questions from Airtable CSV filtered by region (includes Global and region-specific)
 // Fallback to Core35 if needed
@@ -108,12 +109,22 @@ export default function AssessmentForm({ location: parentLocation }: AssessmentF
     );
   };
 
-  const handleNext = () => {
+  const handleNext = async () => {
     if (currentStep < totalSteps - 1) {
       setCurrentStep(currentStep + 1);
     } else {
       // Save assessment data and type to localStorage and navigate to results
       localStorage.setItem('assessmentData', JSON.stringify({ ...assessmentData, assessmentType }));
+      try {
+        await createAirtableRecord({
+          ...assessmentData,
+          assessmentType,
+          submittedAt: new Date().toISOString(),
+        });
+      } catch (err) {
+        // Optionally handle error (e.g., show a toast)
+        console.error('Failed to save to Airtable:', err);
+      }
       navigate('/results');
     }
   };
