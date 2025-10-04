@@ -1,0 +1,151 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 240 10% 3.9%;
+    --card: 0 0% 100%;
+    --card-foreground: 240 10% 3.9%;
+    --popover: 0 0% 100%;
+    --popover-foreground: 240 10% 3.9%;
+    --primary: 240 5.9% 10%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 240 4.8% 95.9%;
+    --secondary-foreground: 240 5.9% 10%;
+    --muted: 240 4.8% 95.9%;
+    --muted-foreground: 240 3.8% 46.1%;
+    --accent: 240 4.8% 95.9%;
+    --accent-foreground: 240 5.9% 10%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 5.9% 90%;
+    --input: 240 5.9% 90%;
+    --ring: 240 10% 3.9%;
+    --chart-1: 12 76% 61%;
+    --chart-2: 173 58% 39%;
+    --chart-3: 197 37% 24%;
+    --chart-4: 43 74% 66%;
+    --chart-5: 27 87% 67%;
+    --radius: 0.5rem
+  ;
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%}
+
+  .dark {
+    --background: 240 10% 3.9%;
+    --foreground: 0 0% 98%;
+    --card: 240 10% 3.9%;
+    --card-foreground: 0 0% 98%;
+    --popover: 240 10% 3.9%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 0 0% 98%;
+    --primary-foreground: 240 5.9% 10%;
+    --secondary: 240 3.7% 15.9%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 240 3.7% 15.9%;
+    --muted-foreground: 240 5% 64.9%;
+    --accent: 240 3.7% 15.9%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 3.7% 15.9%;
+    --input: 240 3.7% 15.9%;
+    --ring: 240 4.9% 83.9%;
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%
+  ;
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%}
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* Template CSS port */
+.btn {
+  font-family: 'Nunito', sans-serif;
+  font-weight: 600;
+  transition: .5s;
+}
+
+.btn-primary,
+.btn-secondary {
+  color: #FFFFFF;
+  box-shadow: inset 0 0 0 50px transparent;
+  background-color: #CC9966;
+  border-color: #CC9966;
+}
+
+.btn-primary:hover {
+  box-shadow: inset 0 0 0 0 #CC9966;
+  background-color: #B8956A;
+  border-color: #B8956A;
+}
+
+.btn-secondary:hover {
+  box-shadow: inset 0 0 0 0 #B8956A;
+  background-color: #B8956A;
+  border-color: #B8956A;
+}
+
+.btn-dark {
+  background-color: #3E2723;
+  border-color: #3E2723;
+  color: #fff;
+}
+
+.btn-dark:hover {
+  background-color: #B8956A;
+  border-color: #B8956A;
+  color: #fff;
+}
+
+.btn-square { width:36px; height:36px; }
+.btn-sm-square { width:30px; height:30px; }
+.btn-lg-square { width:48px; height:48px; }
+.btn-square, .btn-sm-square, .btn-lg-square { padding-left:0; padding-right:0; text-align:center; }
+
+.bg-dark { background-color: #3E2723 !important; }
+.text-primary { color: #CC9966 !important; }
+.border-primary { border-color: #CC9966 !important; }
+
+.btn-outline-light { color:#CC9966; border-color:#CC9966; background-color:transparent; }
+.btn-outline-light:hover { background-color:#CC9966; color:#fff; border-color:#CC9966; }
+
+.service-item { position:relative; height:300px; padding:0 30px; transition:.5s; }
+.service-item .service-icon { margin-bottom:30px; width:60px; height:60px; display:flex; align-items:center; justify-content:center; background:#CC9966; border-radius:2px; transform:rotate(-45deg); }
+.service-item .service-icon i { transform:rotate(45deg); }
+.service-item a.btn { position:absolute; width:60px; bottom:-48px; left:50%; margin-left:-30px; opacity:0; }
+.service-item:hover a.btn { bottom:-24px; opacity:1; }
+
+.link-animated a { transition:.5s; }
+.link-animated a:hover { padding-left:10px; color:#CC9966; }
+
+.back-to-top { position:fixed; display:none; right:45px; bottom:45px; z-index:99; background-color:#CC9966; color:#fff; }
+.bi-arrow-up { color:#fff; }
+
+.bg-header { background: linear-gradient(rgba(62, 39, 35, .7), rgba(62, 39, 35, .7)); background-size:cover; }
