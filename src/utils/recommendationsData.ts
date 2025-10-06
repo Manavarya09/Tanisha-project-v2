@@ -1,4 +1,12 @@
-import recommendationsCSV from '../../Recommendations (1).csv?raw';
-import { parseRecommendationsCSV } from '../utils/recommendationCSV';
+// Fetch and parse recommendations CSV at runtime
+import { parseRecommendationsCSV } from './recommendationCSV';
 
-export const recommendationsData = parseRecommendationsCSV(recommendationsCSV);
+let recommendationsData: any[] = [];
+
+export async function loadRecommendationsData() {
+  if (recommendationsData.length > 0) return recommendationsData;
+  const res = await fetch('/Recommendations (1).csv');
+  const text = await res.text();
+  recommendationsData = parseRecommendationsCSV(text);
+  return recommendationsData;
+}

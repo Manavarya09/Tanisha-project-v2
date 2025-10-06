@@ -6,12 +6,13 @@ import { Badge } from '../components/ui/badge';
 import { ArrowLeft, Clock, AlertCircle, CheckCircle, Target } from 'lucide-react';
 import { AssessmentData, AssessmentResults, calculateAssessmentResults, Recommendation } from '../utils/assessmentLogic';
 import AnimatedContent from '../components/AnimatedContent';
-import { recommendationsData } from '../utils/recommendationsData';
+import { loadRecommendationsData } from '../utils/recommendationsData';
 
 export default function RecommendationsPage() {
   const navigate = useNavigate();
   const [results, setResults] = useState<AssessmentResults | null>(null);
   const [assessmentData, setAssessmentData] = useState<AssessmentData | null>(null);
+  const [loading, setLoading] = useState(true);
 
   useEffect(() => {
     const savedData = localStorage.getItem('assessmentData');
@@ -21,25 +22,27 @@ export default function RecommendationsPage() {
     }
 
     const data: AssessmentData = JSON.parse(savedData);
-    // Determine result type (e.g., overallLevel or other logic)
     const calculatedResults = calculateAssessmentResults(data);
     setAssessmentData(data);
-    setResults({
-      ...calculatedResults,
-      recommendations: recommendationsData.filter(rec =>
-        rec.resultType.toLowerCase() === calculatedResults.overallLevel.toLowerCase()
-      ).map(rec => ({
-        pillar: rec.pillar,
-        category: '', // Not present in CSV, so set as empty or map if available
-        priority: rec.priority as 'High' | 'Medium' | 'Low',
-        title: rec.title,
-        description: rec.description,
-        timeline: rec.timeline
-      }))
+    loadRecommendationsData().then(recommendationsData => {
+      setResults({
+        ...calculatedResults,
+        recommendations: recommendationsData.filter((rec: any) =>
+          rec.resultType.toLowerCase() === calculatedResults.overallLevel.toLowerCase()
+        ).map((rec: any) => ({
+          pillar: rec.pillar,
+          category: '',
+          priority: rec.priority as 'High' | 'Medium' | 'Low',
+          title: rec.title,
+          description: rec.description,
+          timeline: rec.timeline
+        }))
+      });
+      setLoading(false);
     });
   }, [navigate]);
 
-  if (!results || !assessmentData) {
+  if (loading || !results || !assessmentData) {
     return (
       <div className="min-h-screen bg-slate-50 flex items-center justify-center">
         <div className="text-center">
