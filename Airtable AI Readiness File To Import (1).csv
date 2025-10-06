@@ -1,0 +1,347 @@
+﻿Question ID,Subcategory ID,Pillar,Subcategory,Question,Region,Assessment Type,Active?
+Q-STR-AIS-001,S-001,Strategy & Leadership,AI Strategy,Does your organization have a formal AI strategy aligned with business goals?,Global,,TRUE
+Q-STR-AIS-002,S-001,Strategy & Leadership,AI Strategy,Is the AI strategy communicated clearly across all organizational levels?,Global,,TRUE
+Q-STR-AIS-003,S-001,Strategy & Leadership,AI Strategy,Are measurable KPIs and success criteria defined for the AI strategy?,Global,,TRUE
+Q-STR-AIS-004,S-001,Strategy & Leadership,AI Strategy,Is AI adoption regularly reviewed and adjusted based on external trends and internal feedback?,Global,,TRUE
+Q-STR-AIS-005,S-001,Strategy & Leadership,AI Strategy,Are adoption goals clearly set for the AI roadmap?,Global,,TRUE
+Q-STR-AIS-006,S-001,Strategy & Leadership,AI Strategy,Does the organization analyze AI trends and competitor AI maturity?,Global,,TRUE
+Q-STR-AIS-007,S-001,Strategy & Leadership,AI Strategy,Is the AI vision validated with senior leadership?,Global,,TRUE
+Q-STR-AIS-008,S-001,Strategy & Leadership,AI Strategy,Are external AI partnerships integrated into the strategic roadmap?,Global,,TRUE
+Q-STR-AIS-009,S-001,Strategy & Leadership,AI Strategy,Is the AI strategy documented and accessible to relevant stakeholders?,Global,,TRUE
+Q-STR-AIS-010,S-001,Strategy & Leadership,AI Strategy,Are lessons learned from past AI initiatives incorporated into strategy updates?,Global,,TRUE
+Q-STR-LEA-011,S-002,Strategy & Leadership,Leadership Commitment,Do senior leaders actively sponsor and champion AI initiatives?,Global,,TRUE
+Q-STR-LEA-012,S-002,Strategy & Leadership,Leadership Commitment,Does the organization promote diversity and inclusion within AI leadership?,Global,,TRUE
+Q-STR-LEA-013,S-002,Strategy & Leadership,Leadership Commitment,Are roles and responsibilities for AI leadership clearly defined?,Global,,TRUE
+Q-STR-LEA-014,S-002,Strategy & Leadership,Leadership Commitment,Is there a budget allocated specifically for AI strategic initiatives?,Global,,TRUE
+Q-STR-LEA-015,S-002,Strategy & Leadership,Leadership Commitment,Are AI KPIs regularly reported to executive leadership?,Global,,TRUE
+Q-STR-LEA-016,S-002,Strategy & Leadership,Leadership Commitment,Are strategic AI projects prioritized based on value and risk?,Global,,TRUE
+Q-STR-LEA-017,S-002,Strategy & Leadership,Leadership Commitment,Is AI strategy included in the organization’s risk management framework?,Global,,TRUE
+Q-STR-LEA-018,S-002,Strategy & Leadership,Leadership Commitment,Are executive sponsors assigned for key AI initiatives?,Global,,TRUE
+Q-STR-LEA-019,S-002,Strategy & Leadership,Leadership Commitment,Does leadership foster a culture supportive of AI innovation?,Global,,TRUE
+Q-STR-LEA-020,S-002,Strategy & Leadership,Leadership Commitment,Are AI strategic plans integrated with other business unit strategies?,Global,,TRUE
+Q-STR-NAT-021,S-003,Strategy & Leadership,National Alignment,Does the organization align AI adoption with national AI strategies such as UAE AI Strategy 2031?,Middle East,,TRUE
+Q-STR-NAT-022,S-003,Strategy & Leadership,National Alignment,Does the organization collaborate with government or public-private AI initiatives?,Middle East,,TRUE
+Q-STR-AIS-023,S-001,Strategy & Leadership,AI Strategy,Are strategic AI investments reviewed periodically for alignment with business goals?,Global,,TRUE
+Q-STR-ENV-024,S-004,Strategy & Leadership,Environmental Sustainability,Is AI strategy linked to sustainability and corporate social responsibility objectives?,Global,,TRUE
+Q-STR-INN-025,S-005,Strategy & Leadership,Innovation,Are AI innovation partnerships with startups or academia pursued actively?,Global,,TRUE
+Q-STR-LEA-026,S-002,Strategy & Leadership,Leadership Commitment,Are strategic risks from AI adoption assessed and mitigated?,Global,,TRUE
+Q-STR-REG-027,S-006,Strategy & Leadership,Regulatory Horizon-Scanning,Is the organization prepared for regulatory changes impacting AI?,Global,,TRUE
+Q-STR-POR-028,S-007,Strategy & Leadership,Portfolio Management,"Is there an enterprise-wide AI portfolio dashboard showing value, risk, cost and sustainability metrics for every project?",Global,,TRUE
+Q-STR-COM-029,S-008,Strategy & Leadership,Competitive Intelligence,Is competitor and industry AI maturity benchmarked at least annually to inform roadmap updates?,Global,,TRUE
+Q-STR-ENV-030,S-004,Strategy & Leadership,Environmental Sustainability,Has the executive committee approved carbon-reduction targets specifically for AI workloads?,Global,,TRUE
+Q-STR-REG-031,S-006,Strategy & Leadership,Regulatory Horizon-Scanning,Is there a formal process to monitor upcoming AI regulations globally and update strategy within 90 days?,Global,,TRUE
+Q-STR-ENV-032,S-004,Strategy & Leadership,Environmental Sustainability,Is ethical AI a core component of your corporate social responsibility strategy?,Global,,TRUE
+Q-STR-ETH-033,S-009,Strategy & Leadership,Ethics & Responsible AI Strategy,Has the organization published a Responsible AI or AI Ethics charter signed by executive leadership?,Global,,TRUE
+Q-STR-ETH-034,S-009,Strategy & Leadership,Ethics & Responsible AI Strategy,Are ethical impact assessments required at the concept stage for all major AI projects?,Global,,TRUE
+Q-STR-ETH-035,S-009,Strategy & Leadership,Ethics & Responsible AI Strategy,"Are red-team exercises regularly conducted to test for model safety, bias, and misuse scenarios?","Global, EU",,TRUE
+Q-STR-ETH-036,S-009,Strategy & Leadership,Ethics & Responsible AI Strategy,Is there a dedicated ethics budget as a proportion of AI spending?,Global,,TRUE
+Q-STR-ETH-037,S-009,Strategy & Leadership,Ethics & Responsible AI Strategy,Are ethics KPIs reported at the board level?,Global,,TRUE
+Q-STR-GEN-038,S-010,Strategy & Leadership,Generative AI Strategy & Governance,"Are explicit organizational guardrails in place for safe, lawful, and fair use of generative AI and foundation models?","Global, EU",,TRUE
+Q-STR-GEN-039,S-010,Strategy & Leadership,Generative AI Strategy & Governance,Are prompt engineering standards and best practices published and updated regularly?,Global,,TRUE
+Q-STR-GEN-040,S-010,Strategy & Leadership,Generative AI Strategy & Governance,Are risks of synthetic content and hallucinations in GenAI systems actively monitored and mitigated?,"Global, EU",,TRUE
+Q-STR-GEN-041,S-010,Strategy & Leadership,Generative AI Strategy & Governance,Are mechanisms in place to watermark or tag AI-generated content?,"Global, EU",,TRUE
+Q-STR-GEN-042,S-010,Strategy & Leadership,Generative AI Strategy & Governance,Is there a budget or team for GenAI red-teaming and responsibility testing?,"Global, EU",,TRUE
+Q-STR-AIC-043,S-011,Strategy & Leadership,AI Competitive Intelligence,Are competitor and industry AI capabilities benchmarked at least semi-annually to inform roadmap and investments?,Global,,TRUE
+Q-STR-AIC-044,S-011,Strategy & Leadership,AI Competitive Intelligence,Are AI maturity levels of key competitors monitored and communicated to product and R&D leaders?,"Global, ME",,TRUE
+Q-STR-AIC-045,S-011,Strategy & Leadership,AI Competitive Intelligence,Does the organization analyze regulatory strategies and public mandates of competitive markets?,"EU, ME",,TRUE
+Q-BUS-USE-046,S-012,Business Readiness,Use Case Prioritization,Are AI use cases prioritized based on potential business value and feasibility?,Global,,TRUE
+Q-BUS-USE-047,S-012,Business Readiness,Use Case Prioritization,Are business cases with expected ROI or KPIs formalized for AI initiatives?,Global,,TRUE
+Q-BUS-USE-048,S-012,Business Readiness,Use Case Prioritization,Are lessons learned from AI pilots documented and shared?,Global,,TRUE
+Q-BUS-USE-049,S-012,Business Readiness,Use Case Prioritization,Is there a process for continuous prioritization of AI projects aligned with strategy?,Global,,TRUE
+Q-BUS-USE-050,S-012,Business Readiness,Use Case Prioritization,Are AI use cases evaluated for alignment with business processes?,Global,,TRUE
+Q-BUS-CHA-051,S-013,Business Readiness,Change Management,Are change management processes established to support AI adoption?,Global,,TRUE
+Q-BUS-CHA-052,S-013,Business Readiness,Change Management,Are employees across business units actively involved in AI pilot projects?,Global,,TRUE
+Q-BUS-CHA-053,S-013,Business Readiness,Change Management,Are change impacts on processes and people managed during AI adoption?,Global,,TRUE
+Q-BUS-CHA-054,S-013,Business Readiness,Change Management,Are feedback mechanisms integrated into AI development cycles?,Global,,TRUE
+Q-BUS-CHA-055,S-013,Business Readiness,Change Management,Are business units incentivized to adopt AI solutions?,Global,,TRUE
+Q-BUS-FIN-056,S-014,Business Readiness,Financial Planning,Are budgeting and financial controls specific to AI projects in place?,Global,,TRUE
+Q-BUS-FIN-057,S-014,Business Readiness,Financial Planning,Is innovation funding allocated for AI research and development?,Global,,TRUE
+Q-BUS-FIN-058,S-014,Business Readiness,Financial Planning,Are costs and benefits of AI initiatives regularly reviewed and updated?,Global,,TRUE
+Q-BUS-FIN-059,S-014,Business Readiness,Financial Planning,Are resource allocations for AI projects transparent and aligned with priorities?,Global,,TRUE
+Q-BUS-FIN-060,S-014,Business Readiness,Financial Planning,Are financial risks from AI adoption assessed?,Global,,TRUE
+Q-BUS-CUS-061,S-015,Business Readiness,Customer Centricity,Is customer centricity considered in AI initiatives?,Global,,TRUE
+Q-BUS-CUS-062,S-015,Business Readiness,Customer Centricity,Are customer feedback mechanisms integrated into AI product development?,Global,,TRUE
+Q-BUS-CUS-063,S-015,Business Readiness,Customer Centricity,Are AI business cases aligned with customer needs and market trends?,Global,,TRUE
+Q-BUS-CUS-064,S-015,Business Readiness,Customer Centricity,Are AI benefits communicated effectively to all stakeholders?,Global,,TRUE
+Q-BUS-CUS-065,S-015,Business Readiness,Customer Centricity,Are customer satisfaction metrics used to refine AI deployments?,Global,,TRUE
+Q-BUS-PRO-066,S-016,Business Readiness,Project Management,Are AI projects managed with clear timelines and milestones?,Global,,TRUE
+Q-BUS-PRO-067,S-016,Business Readiness,Project Management,Is risk management applied actively throughout AI projects?,Global,,TRUE
+Q-BUS-PRO-068,S-016,Business Readiness,Project Management,Are lessons from AI projects captured and shared?,Global,,TRUE
+Q-BUS-VAL-069,S-017,Business Readiness,Value Realisation,Are AI-driven process improvements measured for efficiency and quality gains?,Global,,TRUE
+Q-BUS-PRO-070,S-016,Business Readiness,Project Management,Are AI projects integrated into enterprise portfolio management tools?,Global,,TRUE
+Q-BUS-PRO-071,S-016,Business Readiness,Project Management,Are AI business continuity plans documented and tested?,Global,,TRUE
+Q-BUS-IMP-072,S-018,Business Readiness,Implementation & Integration,Are AI product development teams cross-functional and agile?,Global,,TRUE
+Q-BUS-CUS-073,S-015,Business Readiness,Customer Centricity,Is customer impact analysis performed regularly on AI deployments?,Global,,TRUE
+Q-BUS-VAL-074,S-017,Business Readiness,Value Realisation,Are realised financial or efficiency benefits tracked and compared to the original AI business case after deployment?,Global,,TRUE
+Q-BUS-VAL-075,S-017,Business Readiness,Value Realisation,Is accountability assigned to ensure benefits realisation is reported to leadership?,Global,,TRUE
+Q-BUS-CUS-076,S-015,Business Readiness,Customer Centricity,"Are user-experience metrics (e.g., NPS, CSAT) tied to AI feature releases and monitored in real time?",Global,,TRUE
+Q-BUS-EXT-077,S-019,Business Readiness,External Partnerships & Ecosystem,"Are third-party AI vendors evaluated against a standard risk, security and ethics rubric before onboarding?",Global,,TRUE
+Q-BUS-EXT-078,S-019,Business Readiness,External Partnerships & Ecosystem,Are ethical considerations included in AI procurement and vendor management?,Global,,TRUE
+Q-BUS-CUS-079,S-015,Business Readiness,Customer Centricity,Are AI-driven personalization and recommendation engines ethically governed?,Global,,TRUE
+Q-BUS-VAL-080,S-017,Business Readiness,Value Realisation,Are AI adoption metrics linked to overall digital transformation KPIs?,Global,,TRUE
+Q-BUS-IMP-081,S-018,Business Readiness,Implementation & Integration,Are AI technology pilots conducted with multi-disciplinary oversight?,Global,,TRUE
+Q-BUS-EXT-082,S-019,Business Readiness,External Partnerships & Ecosystem,Are AI ethics and governance embedded in supplier and partner contracts?,Global,,TRUE
+Q-BUS-AIB-083,S-020,Business Readiness,AI Business Model Innovation,"Has the organization identified or launched new AI-powered business models (e.g., AIaaS, data monetization)?",Global,,TRUE
+Q-BUS-AIB-084,S-020,Business Readiness,AI Business Model Innovation,Are pricing and revenue models for AI products periodically reviewed against operational costs?,Global,,TRUE
+Q-BUS-AIB-085,S-020,Business Readiness,AI Business Model Innovation,Is cannibalization risk for new AI offerings analyzed and managed?,Global,,TRUE
+Q-BUS-AID-086,S-021,Business Readiness,AI-Driven Decision Making,"Are decision rights, delegation, and override processes mapped and documented for AI-supported business workflows?","Global,ME",,TRUE
+Q-BUS-AID-087,S-021,Business Readiness,AI-Driven Decision Making,Are logs of human-AI override decisions maintained and analyzed for improvement opportunities?,Global,,TRUE
+Q-BUS-AID-088,S-021,Business Readiness,AI-Driven Decision Making,Are bias and fairness audits conducted on all AI-driven business decisions?,"Global, EU",,TRUE
+Q-BUS-AIP-089,S-022,Business Readiness,AI Product Development (Lifecycle Gates),"Does product development include stage gates specific to AI risks, readiness, and model validation?",Global,,TRUE
+Q-BUS-AIP-090,S-022,Business Readiness,AI Product Development (Lifecycle Gates),Are shadow deployments or canary releases used before full AI system roll-out?,Global,,TRUE
+Q-BUS-AIP-091,S-022,Business Readiness,AI Product Development (Lifecycle Gates),Is versioning and rollback tested for AI releases?,Global,,TRUE
+Q-BUS-VAL-092,S-017,Business Readiness,Value Realisation,"Are intangible AI benefits (improved decision quality, risk reduction) measured and valued?",Global,,TRUE
+Q-BUS-VAL-093,S-017,Business Readiness,Value Realisation,Is AI value measurement integrated with enterprise value management frameworks?,Global,,TRUE
+Q-BUS-VAL-094,S-017,Business Readiness,Value Realisation,Are AI investment returns compared against alternative technology investments?,Global,,TRUE
+Q-BUS-VAL-095,S-017,Business Readiness,Value Realisation,Is there a process to measure and optimize the total cost of AI ownership (TCO)?,"Global,ME",,TRUE
+Q-DAT-DAT-096,S-023,Data Readiness,Data Governance,Is there a documented data governance framework supporting AI initiatives?,Global,,TRUE
+Q-DAT-DAT-097,S-023,Data Readiness,Data Governance,"Are data governance roles (e.g., data stewards) established for AI?",Global,,TRUE
+Q-DAT-DAT-098,S-023,Data Readiness,Data Governance,Is there collaboration between data governance and AI teams?,Global,,TRUE
+Q-DAT-DAT-099,S-023,Data Readiness,Data Governance,Are data governance policies enforced consistently?,Global,,TRUE
+Q-DAT-DAT-100,S-023,Data Readiness,Data Governance,Are data owners identified and accountable for AI data quality?,Global,,TRUE
+Q-DAT-DAT-101,S-024,Data Readiness,Data Quality,Is data quality continuously monitored and improved for AI use cases?,Global,,TRUE
+Q-DAT-DAT-102,S-024,Data Readiness,Data Quality,Are data quality issues logged and resolved promptly?,Global,,TRUE
+Q-DAT-DAT-103,S-024,Data Readiness,Data Quality,Are data quality improvement initiatives prioritized based on AI impact?,Global,,TRUE
+Q-DAT-DAT-104,S-024,Data Readiness,Data Quality,Are data validation and cleaning processes applied systematically?,Global,,TRUE
+Q-DAT-DAT-105,S-024,Data Readiness,Data Quality,Are data quality metrics defined and tracked?,Global,,TRUE
+Q-DAT-DAT-106,S-025,Data Readiness,Data Privacy & Security,Are privacy and security policies in place and compliant for AI data usage?,Global,,TRUE
+Q-DAT-DAT-107,S-025,Data Readiness,Data Privacy & Security,Are data privacy laws and regulations considered in AI governance?,Global,,TRUE
+Q-DAT-DAT-108,S-025,Data Readiness,Data Privacy & Security,Is data anonymization or pseudonymization used to protect privacy?,Global,,TRUE
+Q-DAT-DAT-109,S-025,Data Readiness,Data Privacy & Security,Are data access controls enforced consistently across AI datasets?,Global,,TRUE
+Q-DAT-DAT-110,S-025,Data Readiness,Data Privacy & Security,Are data privacy impact assessments conducted for AI projects?,Global,,TRUE
+Q-DAT-DAT-111,S-026,Data Readiness,Data Integration,Is data accessible and integrated across relevant systems for AI applications?,Global,,TRUE
+Q-DAT-DAT-112,S-026,Data Readiness,Data Integration,Are data pipelines automated and monitored?,Global,,TRUE
+Q-DAT-DAT-113,S-026,Data Readiness,Data Integration,Are data interoperability standards adopted for AI data integration?,Global,,TRUE
+Q-DAT-DAT-114,S-026,Data Readiness,Data Integration,Are data lineage and provenance tracked to ensure traceability?,Global,,TRUE
+Q-DAT-DAT-115,S-026,Data Readiness,Data Integration,Are external data sources vetted and managed for AI applications?,Global,,TRUE
+Q-DAT-MET-116,S-027,Data Readiness,Metadata Management,Is metadata for AI datasets consistently captured and managed?,Global,,TRUE
+Q-DAT-MET-117,S-027,Data Readiness,Metadata Management,Are data cataloging tools used to improve AI data discoverability?,Global,,TRUE
+Q-DAT-DAT-118,S-024,Data Readiness,Data Quality,Are advanced data analytics and AI-specific data models used to enhance data quality?,Global,,TRUE
+Q-DAT-DAT-119,S-023,Data Readiness,Data Governance,Are synthetic data generation and augmentation techniques employed responsibly?,Global,,TRUE
+Q-DAT-DAT-120,S-026,Data Readiness,Data Integration,Is real-time data processing infrastructure in place for AI applications?,Global,,TRUE
+Q-DAT-DAT-121,S-028,Data Readiness,Data Provenance,Are data provenance and audit trails maintained for all AI datasets?,Global,,TRUE
+Q-DAT-DAT-122,S-023,Data Readiness,Data Governance,Are data retention and archival policies aligned with AI lifecycle needs?,Global,,TRUE
+Q-DAT-SYN-123,S-029,Data Readiness,Synthetic Data Governance,Is formal approval required before synthetic data is injected into training pipelines?,Global,,TRUE
+Q-DAT-DAT-124,S-028,Data Readiness,Data Provenance,Are model artefacts cryptographically signed to verify provenance and prevent tampering?,Global,,TRUE
+Q-DAT-DAT-125,S-030,Data Readiness,Data Compliance,Is cross-border AI data flow managed securely and compliantly?,Global,,TRUE
+Q-DAT-DAT-126,S-031,Data Readiness,Data Monetization Strategy,Has the organization inventoried and valued its data assets for potential external monetization?,Global,,TRUE
+Q-DAT-DAT-127,S-031,Data Readiness,Data Monetization Strategy,Are data commercialization/licensing frameworks and contracts reviewed for IP/privacy risk?,"Global, EU",,TRUE
+Q-DAT-DAT-128,S-031,Data Readiness,Data Monetization Strategy,"Are data-sharing deals compliant with cross-border data, privacy, and localization requirements?","EU, ME",,TRUE
+Q-DAT-PRI-129,S-032,Data Readiness,Privacy-Preserving AI,"Are privacy-enhancing techniques (differential privacy, federated learning, homomorphic encryption) piloted for sensitive use cases?","Global, EU",,TRUE
+Q-DAT-PRI-130,S-032,Data Readiness,Privacy-Preserving AI,Is there a monitoring process for data re-identification and privacy budget usage?,Global,,TRUE
+Q-DAT-PRI-131,S-032,Data Readiness,Privacy-Preserving AI,Are privacy requirements reassessed for each new AI application?,"Global, EU, ME",,TRUE
+Q-DAT-DAT-132,S-033,Data Readiness,Data Fabric Architecture,"Does the organization employ a metadata-driven data fabric for agile, secure access across siloed sources?",Global,,TRUE
+Q-DAT-DAT-133,S-033,Data Readiness,Data Fabric Architecture,Are semantic/knowledge graphs or data virtualization tools implemented for AI teams?,Global,,TRUE
+Q-DAT-DAT-134,S-033,Data Readiness,Data Fabric Architecture,Are data mesh/federation models used to manage domain-owned AI data products?,Global,,TRUE
+Q-DAT-MUL-135,S-034,Data Readiness,Multimodal Data Capability,"Are pipelines for image, audio, text, and video data standardized and tracked for AI usage?",Global,,TRUE
+Q-DAT-MUL-136,S-034,Data Readiness,Multimodal Data Capability,"Is infrastructure in place (vector DBs, ETL) for large-scale multimodal data management?",Global,,TRUE
+Q-DAT-MUL-137,S-034,Data Readiness,Multimodal Data Capability,Are roles or tools dedicated for curation and organization of multimodal datasets?,"Global, ME",,TRUE
+Q-INF-DIS-138,S-035,Infrastructure Readiness,Disaster Recovery & Business Continuity,Are disaster recovery and redundancy plans in place for AI infrastructure?,Global,,TRUE
+Q-INF-DIS-139,S-035,Infrastructure Readiness,Disaster Recovery & Business Continuity,Are backup and restore procedures tested regularly for AI data and models?,Global,,TRUE
+Q-INF-DIS-140,S-035,Infrastructure Readiness,Disaster Recovery & Business Continuity,Are AI infrastructure disaster recovery drills conducted periodically?,Global,,TRUE
+Q-INF-DIS-141,S-035,Infrastructure Readiness,Disaster Recovery & Business Continuity,Are AI system recovery procedures documented and accessible?,Global,,TRUE
+Q-INF-DIS-142,S-035,Infrastructure Readiness,Disaster Recovery & Business Continuity,Is there a communication plan for AI system downtime or failures?,Global,,TRUE
+Q-INF-DIS-143,S-035,Infrastructure Readiness,Disaster Recovery & Business Continuity,Are AI system recovery time objectives (RTO) aligned with business continuity plans?,Global,,TRUE
+Q-INF-INF-144,S-036,Infrastructure Readiness,Infrastructure Resilience & High Availability,Are ‘chaos engineering’ exercises run to validate AI system failover and rollback procedures?,Global,,TRUE
+Q-INF-INF-145,S-037,Infrastructure Readiness,Infrastructure Capacity & Cost Management,"Are AI workload costs monitored at a unit level (e.g., cost per 1 000 inferences) and optimised quarterly?",Global,,TRUE
+Q-INF-INF-146,S-037,Infrastructure Readiness,Infrastructure Capacity & Cost Management,Does your organization have scalable cloud or on-premises infrastructure to support AI workloads?,Global,,TRUE
+Q-INF-INF-147,S-037,Infrastructure Readiness,Infrastructure Capacity & Cost Management,"Are hardware resources (e.g., GPUs, TPUs) sufficient and appropriately allocated for AI workloads?",Global,,TRUE
+Q-INF-INF-148,S-037,Infrastructure Readiness,Infrastructure Capacity & Cost Management,Is infrastructure capacity regularly reviewed to meet AI demands?,Global,,TRUE
+Q-INF-INF-149,S-037,Infrastructure Readiness,Infrastructure Capacity & Cost Management,Are cloud resources provisioned dynamically to match AI workload demands?,Global,,TRUE
+Q-INF-INF-150,S-037,Infrastructure Readiness,Infrastructure Capacity & Cost Management,Is infrastructure cost optimized using FinOps or similar financial management practices?,Global,,TRUE
+Q-INF-INF-151,S-037,Infrastructure Readiness,Infrastructure Capacity & Cost Management,Are infrastructure scalability tests performed regularly under realistic AI workloads?,Global,,TRUE
+Q-INF-INF-152,S-037,Infrastructure Readiness,Infrastructure Capacity & Cost Management,Are AI system capacity forecasts integrated with business demand planning?,Global,,TRUE
+Q-INF-INF-153,S-036,Infrastructure Readiness,Infrastructure Resilience & High Availability,Are recovery time objectives (RTO) and recovery point objectives (RPO) defined for AI systems?,Global,,TRUE
+Q-INF-INF-154,S-036,Infrastructure Readiness,Infrastructure Resilience & High Availability,Is infrastructure designed for high availability and resilience to failures?,Global,,TRUE
+Q-INF-INF-155,S-036,Infrastructure Readiness,Infrastructure Resilience & High Availability,Are AI data backups tested regularly for integrity and restorability?,Global,,TRUE
+Q-INF-INF-156,S-036,Infrastructure Readiness,Infrastructure Resilience & High Availability,Are failover and redundancy mechanisms tested under load?,Global,,TRUE
+Q-INF-INN-157,S-038,Infrastructure Readiness,Innovation & Emerging Technologies,Are edge computing resources deployed to support AI use cases requiring low latency?,Global,,TRUE
+Q-INF-INN-158,S-038,Infrastructure Readiness,Innovation & Emerging Technologies,Are quantum computing readiness and impact assessed for AI strategy?,Global,,TRUE
+Q-INF-INN-159,S-038,Infrastructure Readiness,Innovation & Emerging Technologies,Has the organisation assessed quantum-enabled algorithms for relevant high-value use-cases?,Global,,TRUE
+Q-INF-MLO-160,S-039,Infrastructure Readiness,MLOps & AI Tools Management,"Have golden-signal SLIs for latency, throughput, error rate and saturation been defined for every production model?",Global,,TRUE
+Q-INF-MLO-161,S-039,Infrastructure Readiness,MLOps & AI Tools Management,Are model and infrastructure logs centrally correlated for end-to-end incident triage?,Global,,TRUE
+Q-INF-MLO-162,S-039,Infrastructure Readiness,MLOps & AI Tools Management,"Are MLOps or ModelOps practices implemented for AI model deployment, monitoring, and lifecycle management?",Global,,TRUE
+Q-INF-MLO-163,S-039,Infrastructure Readiness,MLOps & AI Tools Management,Are AI models versioned and managed systematically?,Global,,TRUE
+Q-INF-MLO-164,S-039,Infrastructure Readiness,MLOps & AI Tools Management,Are AI tools integrated into CI/CD pipelines?,Global,,TRUE
+Q-INF-MLO-165,S-039,Infrastructure Readiness,MLOps & AI Tools Management,Are AI model retraining and monitoring processes automated?,Global,,TRUE
+Q-INF-MLO-166,S-039,Infrastructure Readiness,MLOps & AI Tools Management,Are performance bottlenecks in AI infrastructure proactively identified and addressed?,Global,,TRUE
+Q-INF-MLO-167,S-039,Infrastructure Readiness,MLOps & AI Tools Management,Are AI model deployment rollbacks and fail-safe mechanisms implemented?,Global,,TRUE
+Q-INF-MLO-168,S-039,Infrastructure Readiness,MLOps & AI Tools Management,Does the organization have a formal process to retire outdated AI models?,Global,,TRUE
+Q-INF-MLO-169,S-039,Infrastructure Readiness,MLOps & AI Tools Management,Are AI model deployment and monitoring automated using orchestration tools?,Global,,TRUE
+Q-INF-MLO-170,S-039,Infrastructure Readiness,MLOps & AI Tools Management,Are feedback loops from AI users incorporated into model retraining?,Global,,TRUE
+Q-INF-MLO-171,S-039,Infrastructure Readiness,MLOps & AI Tools Management,Are automatic model-drift detectors configured with thresholds approved by business stakeholders?,Global,,TRUE
+Q-INF-MLO-172,S-039,Infrastructure Readiness,MLOps & AI Tools Management,Does your AI readiness include preparation for generative AI and foundation models?,Global,,TRUE
+Q-INF-SEC-173,S-040,Infrastructure Readiness,Security & Compliance,Is infrastructure security and compliance managed specifically for AI systems?,Global,,TRUE
+Q-INF-SEC-174,S-040,Infrastructure Readiness,Security & Compliance,Are network security protocols enforced for AI data transmissions?,Global,,TRUE
+Q-INF-SEC-175,S-040,Infrastructure Readiness,Security & Compliance,Are AI platform security patches and updates applied regularly?,Global,,TRUE
+Q-INF-SEC-176,S-040,Infrastructure Readiness,Security & Compliance,Are incident response plans in place for AI infrastructure failures?,Global,,TRUE
+Q-INF-SEC-177,S-040,Infrastructure Readiness,Security & Compliance,Are infrastructure usage and security logs maintained and audited?,Global,,TRUE
+Q-INF-SEC-178,S-040,Infrastructure Readiness,Security & Compliance,Are infrastructure access controls regularly audited for AI platforms?,Global,,TRUE
+Q-INF-SEC-179,S-040,Infrastructure Readiness,Security & Compliance,Are AI systems monitored for unusual activity or security breaches?,Global,,TRUE
+Q-INF-SEC-180,S-040,Infrastructure Readiness,Security & Compliance,Are encryption standards applied for AI data at rest and in transit?,Global,,TRUE
+Q-INF-SEC-181,S-040,Infrastructure Readiness,Security & Compliance,Are security incident response teams trained specifically for AI-related threats?,Global,,TRUE
+Q-INF-SEC-182,S-040,Infrastructure Readiness,Security & Compliance,Are third-party infrastructure providers compliant with AI security requirements?,Global,,TRUE
+Q-INF-GRE-183,S-041,Infrastructure Readiness,Green AI & Sustainable Computing,"Are AI model and infrastructure decisions governed by energy, carbon, and water footprint metrics?","Global, EU",,TRUE
+Q-INF-GRE-184,S-041,Infrastructure Readiness,Green AI & Sustainable Computing,"Is progress on key sustainability KPIs (e.g., PUE, gCO₂/prediction) reported annually?","Global, EU",,TRUE
+Q-INF-GRE-185,S-041,Infrastructure Readiness,Green AI & Sustainable Computing,Are cloud and data center providers required to disclose their sustainability audits?,"EU, ME",,TRUE
+Q-INF-EDG-186,S-042,Infrastructure Readiness,Edge AI & IoT Integration,Are AI models optimized and deployed at the edge/in IoT devices for latency or privacy requirements?,Global,,TRUE
+Q-INF-EDG-187,S-042,Infrastructure Readiness,Edge AI & IoT Integration,Are secure OTA update pipelines and remote monitoring tools implemented?,Global,,TRUE
+Q-INF-EDG-188,S-042,Infrastructure Readiness,Edge AI & IoT Integration,Are field tests or pilots running for edge/IoT AI use cases?,Global,,TRUE
+Q-INF-FOU-189,S-043,Infrastructure Readiness,Foundation Model Infrastructure,"Does infrastructure support large/foundation model training, fine-tuning, and serving (e.g., multi-GPU, high-memory nodes)",Global,,TRUE
+Q-INF-FOU-190,S-043,Infrastructure Readiness,Foundation Model Infrastructure,"Are model weights, checkpoints, and data lineage versioned and tracked?",Global,,TRUE
+Q-INF-FOU-191,S-043,Infrastructure Readiness,Foundation Model Infrastructure,Are validation and red-teaming environments reserved for foundation models?,"Global, EU",,TRUE
+Q-INF-QUA-192,S-044,Infrastructure Readiness,Quantum-Ready Architecture,Is there a strategic roadmap or partnership for quantum-classical hybrid AI workflows?,Global,,TRUE
+Q-INF-QUA-193,S-044,Infrastructure Readiness,Quantum-Ready Architecture,Are quantum simulators or libraries integrated for algorithm prototyping?,Global,,TRUE
+Q-INF-QUA-194,S-044,Infrastructure Readiness,Quantum-Ready Architecture,Are technology pilots active for quantum-ready AI solutions?,"Global, ME",,TRUE
+Q-INF-AIS-195,S-045,Infrastructure Readiness,AI Supply Chain Security,"Are all software/model supply chain components (frameworks, pre-trained models, APIs) inventoried, risk-rated, and monitored?","Global, ME",,TRUE
+Q-INF-AIS-196,S-045,Infrastructure Readiness,AI Supply Chain Security,"Is provenance, authenticity, and audit history maintained for all critical AI supply chain inputs?",Global,,TRUE
+Q-INF-AIS-197,S-045,Infrastructure Readiness,AI Supply Chain Security,Are third-party and open-source dependencies covered by attestation and security patching processes?,"Global, ME",,TRUE
+Q-INF-QUA-198,S-044,Infrastructure Readiness,Quantum-Ready Architecture,Are quantum-resistant cryptographic methods implemented to protect AI systems from quantum threats?,"Global, EU",,TRUE
+Q-INF-QUA-199,S-044,Infrastructure Readiness,Quantum-Ready Architecture,Does the organization have partnerships or access to quantum computing resources for AI research?,"Global, ME",,TRUE
+Q-INF-QUA-200,S-044,Infrastructure Readiness,Quantum-Ready Architecture,Are quantum machine learning algorithms evaluated for specific high-value business use cases?,Global,,TRUE
+Q-INF-QUA-201,S-044,Infrastructure Readiness,Quantum-Ready Architecture,Is there a timeline and budget allocated for quantum-AI technology adoption?,"Global, ME",,TRUE
+Q-INF-AIP-202,S-046,Infrastructure Readiness,AI Performance & SLA Management,Are service level agreements (SLAs) defined and monitored for all production AI systems?,Global,,TRUE
+Q-INF-AIP-203,S-046,Infrastructure Readiness,AI Performance & SLA Management,Are AI performance degradation patterns analyzed and used for proactive maintenance?,Global,,TRUE
+Q-INF-AIP-204,S-046,Infrastructure Readiness,AI Performance & SLA Management,Is there automated alerting for AI system performance violations or anomalies?,Global,,TRUE
+Q-INF-AIP-205,S-046,Infrastructure Readiness,AI Performance & SLA Management,Are performance benchmarks established and regularly updated for AI models?,Global,,TRUE
+Q-INF-AIP-206,S-046,Infrastructure Readiness,AI Performance & SLA Management,Is AI system performance data integrated with business impact metrics?,"Global, ME",,TRUE
+Q-INF-INC-207,S-047,Infrastructure Readiness,Incident Management & Improvement,"Are AI incidents categorized by type (bias, safety, performance, security) with specific response procedures?","Global, EU",,TRUE
+Q-INF-INC-208,S-047,Infrastructure Readiness,Incident Management & Improvement,Is there a 24/7 response capability for critical AI system failures?,Global,,TRUE
+Q-INF-INC-209,S-047,Infrastructure Readiness,Incident Management & Improvement,Are AI incident response procedures regularly tested through simulated scenarios?,"Global, EU",,TRUE
+Q-INF-INC-210,S-047,Infrastructure Readiness,Incident Management & Improvement,Is communication protocol established for AI incidents affecting customers or stakeholders?,"Global, EU,ME",,TRUE
+Q-PEO-ROL-211,S-048,People & Skills,Role Identification & Upskilling,Has the organization identified key AI roles and skills gaps?,Global,,TRUE
+Q-PEO-ROL-212,S-048,People & Skills,Role Identification & Upskilling,"Are AI team roles clearly defined, including architects, engineers, and data scientists?",Global,,TRUE
+Q-PEO-ROL-213,S-048,People & Skills,Role Identification & Upskilling,Are AI-related responsibilities clearly assigned across teams?,Global,,TRUE
+Q-PEO-ROL-214,S-048,People & Skills,Role Identification & Upskilling,Are new AI roles integrated into broader organizational structures?,Global,,TRUE
+Q-PEO-ROL-215,S-048,People & Skills,Role Identification & Upskilling,Are job descriptions updated to reflect AI competencies?,Global,,TRUE
+Q-PEO-TRA-216,S-049,People & Skills,Training & Upskilling,Are AI literacy and upskilling programs available for both technical and non-technical staff?,Global,,TRUE
+Q-PEO-TRA-217,S-049,People & Skills,Training & Upskilling,Are AI training programs assessed for impact and updated regularly?,Global,,TRUE
+Q-PEO-TRA-218,S-049,People & Skills,Training & Upskilling,Are targeted role-specific AI training paths developed and maintained?,Global,,TRUE
+Q-PEO-TRA-219,S-049,People & Skills,Training & Upskilling,Is continuous learning encouraged through knowledge sharing and communities of practice?,Global,,TRUE
+Q-PEO-TRA-220,S-049,People & Skills,Training & Upskilling,Does the organization invest in certifications and external AI education?,Global,,TRUE
+Q-PEO-LEA-221,S-050,People & Skills,Leadership Development,Are mentoring and coaching programs in place for AI skill development?,Global,,TRUE
+Q-PEO-LEA-222,S-050,People & Skills,Leadership Development,Are mentoring outcomes tracked and analyzed?,Global,,TRUE
+Q-PEO-LEA-223,S-050,People & Skills,Leadership Development,Are cross-functional mentoring and peer-learning programs supported?,Global,,TRUE
+Q-PEO-LEA-224,S-050,People & Skills,Leadership Development,Are AI champions appointed to foster skill development?,Global,,TRUE
+Q-PEO-LEA-225,S-050,People & Skills,Leadership Development,Are mentoring programs aligned with business objectives?,Global,,TRUE
+Q-PEO-LEA-226,S-050,People & Skills,Leadership Development,Are leadership development programs aligned with AI transformation goals?,Global,,TRUE
+Q-PEO-LEA-227,S-050,People & Skills,Leadership Development,Are AI competencies included in employee performance evaluations?,Global,,TRUE
+Q-PEO-LEA-228,S-050,People & Skills,Leadership Development,Are AI skills development tracked as part of employee career progression?,Global,,TRUE
+Q-PEO-LEA-229,S-050,People & Skills,Leadership Development,Are executives trained on AI strategy and governance?,Global,,TRUE
+Q-PEO-LEA-230,S-050,People & Skills,Leadership Development,Are AI leadership skills considered in succession planning?,Global,,TRUE
+Q-PEO-LEA-231,S-050,People & Skills,Leadership Development,Are leaders trained in AI ethics and responsible AI?,Global,,TRUE
+Q-PEO-LEA-232,S-050,People & Skills,Leadership Development,Are AI leadership competencies part of succession planning?,Global,,TRUE
+Q-PEO-WOR-233,S-051,People & Skills,Workforce Localization,Are Emiratization or Saudization policies integrated into AI workforce planning?,Middle East,,TRUE
+Q-PEO-WOR-234,S-051,People & Skills,Workforce Localization,Are local talent development programs prioritized in AI hiring and upskilling?,Middle East,,TRUE
+Q-PEO-ROL-235,S-048,People & Skills,Role Identification & Upskilling,Are AI skill requirements updated regularly based on emerging technologies?,Global,,TRUE
+Q-PEO-ROL-236,S-048,People & Skills,Role Identification & Upskilling,Are AI-related career pathways clearly communicated to employees?,Global,,TRUE
+Q-PEO-ROL-237,S-048,People & Skills,Role Identification & Upskilling,Are soft skills such as ethics and communication included in AI training?,Global,,TRUE
+Q-PEO-ROL-238,S-048,People & Skills,Role Identification & Upskilling,Are cross-training initiatives in place between AI and business teams?,Global,,TRUE
+Q-PEO-ROL-239,S-048,People & Skills,Role Identification & Upskilling,Is AI skill development tied to individual performance goals?,Global,,TRUE
+Q-PEO-LEA-240,S-050,People & Skills,Leadership Development,Are senior AI leaders engaged in mentoring junior staff?,Global,,TRUE
+Q-PEO-LEA-241,S-050,People & Skills,Leadership Development,Is leadership coaching provided on AI governance and strategy?,Global,,TRUE
+Q-PEO-LEA-242,S-050,People & Skills,Leadership Development,Are leadership forums held to share AI best practices?,Global,,TRUE
+Q-PEO-LEA-243,S-050,People & Skills,Leadership Development,Is there a recognition program for AI skill advancement and innovation?,Global,,TRUE
+Q-PEO-TAL-244,S-052,People & Skills,Talent Retention,Is there an AI talent pipeline program aligned with future business needs?,Global,,TRUE
+Q-PEO-TRA-245,S-049,People & Skills,Training & Upskilling,Are cross-disciplinary AI training programs offered to bridge gaps between technical and business teams?,Global,,TRUE
+Q-PEO-TRA-246,S-049,People & Skills,Training & Upskilling,"Are soft skills like AI ethics, communication, and problem-solving incorporated into AI training?",Global,,TRUE
+Q-PEO-TRA-247,S-049,People & Skills,Training & Upskilling,Is AI skills certification encouraged and recognized within the organization?,Global,,TRUE
+Q-PEO-LEA-248,S-050,People & Skills,Leadership Development,Are AI leadership succession plans regularly reviewed and updated?,Global,,TRUE
+Q-PEO-TAL-249,S-052,People & Skills,Talent Retention,"Is annual turnover for key AI roles monitored, analysed and actioned?",Global,,TRUE
+Q-PEO-TRA-250,S-049,People & Skills,Training & Upskilling,Have role-specific prompt-engineering or foundation-model courses been rolled out?,Global,,TRUE
+Q-PEO-LEA-251,S-050,People & Skills,Leadership Development,Is AI impact on workforce monitored and managed proactively?,Global,,TRUE
+Q-PEO-AIW-252,S-053,People & Skills,AI Workforce Impact Management,Are job displacement risks from AI systematically assessed and mitigation plans developed?,"Global, ME",,TRUE
+Q-PEO-AIW-253,S-053,People & Skills,AI Workforce Impact Management,Is retraining provided for roles significantly impacted by AI automation?,"Global, ME",,TRUE
+Q-PEO-AIW-254,S-053,People & Skills,AI Workforce Impact Management,Are employee concerns about AI impact on job security addressed through formal programs?,Global,,TRUE
+Q-PEO-AIW-255,S-053,People & Skills,AI Workforce Impact Management,Is there a formal process to identify new job roles created by AI adoption?,"Global, ME",,TRUE
+Q-PEO-AIW-256,S-053,People & Skills,AI Workforce Impact Management,Are AI collaboration skills (working with AI systems) included in job competency frameworks?,Global,,TRUE
+Q-AIG-COM-257,S-054,AI Governance & Ethics,Compliance & Auditing,Are AI audits conducted regularly to ensure compliance?,Global,,TRUE
+Q-AIG-COM-258,S-054,AI Governance & Ethics,Compliance & Auditing,Are compliance requirements integrated into the AI development lifecycle?,Global,,TRUE
+Q-AIG-COM-259,S-054,AI Governance & Ethics,Compliance & Auditing,Are third-party AI systems subject to governance review before adoption?,Global,,TRUE
+Q-AIG-COM-260,S-054,AI Governance & Ethics,Compliance & Auditing,Are AI governance metrics monitored and reported to leadership?,Global,,TRUE
+Q-AIG-COM-261,S-054,AI Governance & Ethics,Compliance & Auditing,Are independent third-party AI ethics audits conducted?,Global,,TRUE
+Q-AIG-HIG-262,S-055,AI Governance & Ethics,High-Risk AI Compliance,"For EU ‘high-risk’ systems, is conformity assessment documentation maintained and ready for regulator review?",Europe,,TRUE
+Q-AIG-INC-263,S-056,AI Governance & Ethics,Incident Management & Improvement,"Are comprehensive AI incident response procedures documented with SLAs, logging, and escalation processes?",Global,,TRUE
+Q-AIG-INC-264,S-056,AI Governance & Ethics,Incident Management & Improvement,Is root-cause analysis performed after each AI incident and lessons incorporated into policy updates?,Global,,TRUE
+Q-AIG-INC-265,S-056,AI Governance & Ethics,Incident Management & Improvement,Is AI readiness assessment conducted periodically and results tracked over time? (Yes / Partial / No),Global,,TRUE
+Q-AIG-NAT-266,S-057,AI Governance & Ethics,National AI Strategies & Workforce,"Are AI initiatives aligned with national digital transformation goals (e.g., Saudi Vision 2030)?",Middle East,,TRUE
+Q-AIG-NAT-267,S-057,AI Governance & Ethics,National AI Strategies & Workforce,Are AI projects supported by government innovation funds or grants?,Middle East,,TRUE
+Q-AIG-POL-268,S-058,AI Governance & Ethics,Policy & Enforcement,Are AI governance policies and ethical guidelines documented and enforced?,Global,,TRUE
+Q-AIG-POL-269,S-058,AI Governance & Ethics,Policy & Enforcement,Is there a process to handle AI policy violations or incidents?,Global,,TRUE
+Q-AIG-POL-270,S-058,AI Governance & Ethics,Policy & Enforcement,Are AI policies regularly reviewed and updated to reflect technological advances?,Global,,TRUE
+Q-AIG-POL-271,S-058,AI Governance & Ethics,Policy & Enforcement,Are mechanisms in place for whistleblowing and reporting AI misuse or unethical behavior?,Global,,TRUE
+Q-AIG-POL-272,S-058,AI Governance & Ethics,Policy & Enforcement,Does your organization have a dedicated budget for AI governance and ethics initiatives? (Yes / Partial / No),Global,,TRUE
+Q-AIG-REG-273,S-059,AI Governance & Ethics,Regulatory & Compliance,Is the organization fully compliant with GDPR and the EU AI Act requirements?,Europe,,TRUE
+Q-AIG-REG-274,S-059,AI Governance & Ethics,Regulatory & Compliance,Does the organization maintain records of processing activities in compliance with GDPR?,Europe,,TRUE
+Q-AIG-REG-275,S-059,AI Governance & Ethics,Regulatory & Compliance,Has a Data Protection Officer (DPO) been appointed?,Europe,,TRUE
+Q-AIG-REG-276,S-059,AI Governance & Ethics,Regulatory & Compliance,Are impact assessments conducted for high-risk AI systems as per EU AI Act?,Europe,,TRUE
+Q-AIG-REG-277,S-059,AI Governance & Ethics,Regulatory & Compliance,Is there a formal process for data subject rights and consent management?,Europe,,TRUE
+Q-AIG-REG-278,S-059,AI Governance & Ethics,Regulatory & Compliance,Are AI systems classified and risk-assessed according to the EU AI Act's risk categories?,Europe,,TRUE
+Q-AIG-REG-279,S-059,AI Governance & Ethics,Regulatory & Compliance,Are AI systems designed to meet GDPR data protection requirements including data minimization?,Europe,,TRUE
+Q-AIG-REG-280,S-059,AI Governance & Ethics,Regulatory & Compliance,Are processes in place for timely reporting of AI incidents to European regulators?,Europe,,TRUE
+Q-AIG-RIS-281,S-060,AI Governance & Ethics,Risk Assessment & Management,"Are AI risks (privacy, fairness, safety, security) identified, assessed, and prioritized?",Global,,TRUE
+Q-AIG-RIS-282,S-060,AI Governance & Ethics,Risk Assessment & Management,Is AI risk management integrated into the corporate risk framework?,Global,,TRUE
+Q-AIG-RIS-283,S-060,AI Governance & Ethics,Risk Assessment & Management,Are emerging AI risks regularly reviewed and updated?,Global,,TRUE
+Q-AIG-RIS-284,S-060,AI Governance & Ethics,Risk Assessment & Management,Are AI ethical risks included in enterprise risk dashboards?,Global,,TRUE
+Q-AIG-RIS-285,S-060,AI Governance & Ethics,Risk Assessment & Management,Are third-party AI risks incorporated in risk assessments?,Global,,TRUE
+Q-AIG-RIS-286,S-060,AI Governance & Ethics,Risk Assessment & Management,Are all supplier AI models and datasets independently assessed for bias and privacy risks before integration?,Global,,TRUE
+Q-AIG-TRA-287,S-061,AI Governance & Ethics,Transparency & Explainability,Are AI model assumptions and limitations clearly communicated?,Global,,TRUE
+Q-AIG-TRA-288,S-062,AI Governance & Ethics,Transparency & Monitoring,Is there ongoing monitoring of AI model fairness and accuracy?,Global,,TRUE
+Q-AIG-TRA-289,S-062,AI Governance & Ethics,Transparency & Monitoring,Are transparency reports published for AI systems with societal impact?,Global,,TRUE
+Q-AIG-TRA-290,S-062,AI Governance & Ethics,Transparency & Monitoring,Are AI decisions auditable and documented?,Global,,TRUE
+Q-AIG-TRA-291,S-062,AI Governance & Ethics,Transparency & Monitoring,Are users provided with explanations for AI-driven decisions impacting them?,Global,,TRUE
+Q-AIG-TRU-292,S-063,AI Governance & Ethics,Trustworthiness,"Are AI models regularly audited for bias, fairness, and ethical compliance?",Global,,TRUE
+Q-AIG-TRU-293,S-063,AI Governance & Ethics,Trustworthiness,Are incident response plans in place for AI system failures that could impact trust?,Global,,TRUE
+Q-AIG-TRU-294,S-063,AI Governance & Ethics,Trustworthiness,Is accountability clearly assigned for AI outcomes and decision-making?,Global,,TRUE
+Q-AIG-FOU-295,S-064,AI Governance & Ethics,Foundation Model Governance,"Is model lineage (training data sources, checkpoints, updates) fully documented for all GenAI/Foundation models?","Global, EU",,TRUE
+Q-AIG-FOU-296,S-064,AI Governance & Ethics,Foundation Model Governance,Are harmful-content filters and safety evaluations regularly conducted?,"Global, EU",,TRUE
+Q-AIG-FOU-297,S-064,AI Governance & Ethics,Foundation Model Governance,Is copyright and licensing for pre-trained model weights verified and tracked?,"Global, EU",,TRUE
+Q-AIG-BIA-298,S-065,AI Governance & Ethics,Bias Detection & Mitigation,Are systematic bias scans and fairness tests performed prior to launch and at regular intervals?,"Global, EU,ME",,TRUE
+Q-AIG-BIA-299,S-065,AI Governance & Ethics,Bias Detection & Mitigation,Are diverse stakeholder groups involved in AI fairness/bias review?,"Global, EU,ME",,TRUE
+Q-AIG-BIA-300,S-065,AI Governance & Ethics,Bias Detection & Mitigation,Are remediation plans enforced if bias is detected in production?,"Global, EU,ME",,TRUE
+Q-AIG-AIS-301,S-066,AI Governance & Ethics,AI Safety & Reliability,"Are AI system failure modes identified, documented, and tested regularly?",Global,,TRUE
+Q-AIG-AIS-302,S-066,AI Governance & Ethics,AI Safety & Reliability,Is there a formal process to assess and mitigate AI system safety risks before deployment?,"Global, EU",,TRUE
+Q-AIG-AIS-303,S-066,AI Governance & Ethics,AI Safety & Reliability,Are safety-critical AI systems subject to additional validation and approval processes?,"Global, EU",,TRUE
+Q-AIG-AIS-304,S-066,AI Governance & Ethics,AI Safety & Reliability,Are AI safety incidents classified by severity and escalated appropriately?,Global,,TRUE
+Q-AIG-AIS-305,S-066,AI Governance & Ethics,AI Safety & Reliability,Is there a dedicated AI safety officer or team responsible for safety oversight?,"Global, EU",,TRUE
+Q-AIO-AIT-306,S-067,AI Organization & Culture,AI Teams & Center of Excellence (CoE),Is there an established AI center of excellence or dedicated AI team?,Global,,TRUE
+Q-AIO-AIT-307,S-067,AI Organization & Culture,AI Teams & Center of Excellence (CoE),Are AI roles and responsibilities clearly defined within the organization?,Global,,TRUE
+Q-AIO-AIT-308,S-067,AI Organization & Culture,AI Teams & Center of Excellence (CoE),Are collaboration and knowledge-sharing platforms actively used across AI teams?,Global,,TRUE
+Q-AIO-AIT-309,S-067,AI Organization & Culture,AI Teams & Center of Excellence (CoE),Are cross-departmental AI working groups or communities of practice established?,Global,,TRUE
+Q-AIO-AIT-310,S-067,AI Organization & Culture,AI Teams & Center of Excellence (CoE),Is there a centralized repository for AI best practices and lessons learned?,Global,,TRUE
+Q-AIO-AIT-311,S-067,AI Organization & Culture,AI Teams & Center of Excellence (CoE),Is there a formal charter defining the AI Center of Excellence’s mission and scope?,Global,,TRUE
+Q-AIO-AIT-312,S-067,AI Organization & Culture,AI Teams & Center of Excellence (CoE),Are AI CoE resources allocated adequately for projects and innovation?,Global,,TRUE
+Q-AIO-AIT-313,S-067,AI Organization & Culture,AI Teams & Center of Excellence (CoE),Are AI CoE members trained on the latest AI tools and methodologies?,Global,,TRUE
+Q-AIO-AIT-314,S-067,AI Organization & Culture,AI Teams & Center of Excellence (CoE),Does the AI CoE facilitate cross-team collaboration and knowledge sharing?,Global,,TRUE
+Q-AIO-AIT-315,S-067,AI Organization & Culture,AI Teams & Center of Excellence (CoE),Are AI CoE outcomes regularly measured and reported?,Global,,TRUE
+Q-AIO-AIT-316,S-067,AI Organization & Culture,AI Teams & Center of Excellence (CoE),Are AI innovation labs or incubators established to foster new AI ideas?,Global,,TRUE
+Q-AIO-CHA-317,S-068,AI Organization & Culture,Change Management,Are AI-driven organizational changes supported with clear communication and engagement plans?,Global,,TRUE
+Q-AIO-CHA-318,S-068,AI Organization & Culture,Change Management,Is there a process to manage resistance to AI adoption?,Global,,TRUE
+Q-AIO-CHA-319,S-068,AI Organization & Culture,Change Management,Are employee feedback and concerns about AI adoption addressed proactively?,Global,,TRUE
+Q-AIO-CHA-320,S-068,AI Organization & Culture,Change Management,Are AI project successes communicated and celebrated internally?,Global,,TRUE
+Q-AIO-CHA-321,S-068,AI Organization & Culture,Change Management,Are change agents or AI ambassadors identified and supported across departments?,Global,,TRUE
+Q-AIO-CHA-322,S-068,AI Organization & Culture,Change Management,Is AI change management integrated with broader organizational change initiatives?,Global,,TRUE
+Q-AIO-COL-323,S-069,AI Organization & Culture,Collaboration & Culture,Is employee readiness for AI adoption monitored regularly through surveys or feedback?,Global,,TRUE
+Q-AIO-COL-324,S-069,AI Organization & Culture,Collaboration & Culture,Are AI literacy and awareness campaigns conducted for leadership and employees?,Global,,TRUE
+Q-AIO-COL-325,S-069,AI Organization & Culture,Collaboration & Culture,Is there a culture of experimentation and innovation around AI within the organization?,Global,,TRUE
+Q-AIO-COL-326,S-069,AI Organization & Culture,Collaboration & Culture,Are external partnerships leveraged to enhance AI capabilities and innovation?,Global,,TRUE
+Q-AIO-COL-327,S-069,AI Organization & Culture,Collaboration & Culture,Are incentives or rewards in place to encourage AI innovation and adoption?,Global,,TRUE
+Q-AIO-COL-328,S-069,AI Organization & Culture,Collaboration & Culture,Is organizational culture supportive of experimentation and AI-driven innovation?,Global,,TRUE
+Q-AIO-COL-329,S-069,AI Organization & Culture,Collaboration & Culture,Are employees encouraged to share AI successes and challenges openly?,Global,,TRUE
+Q-AIO-COL-330,S-069,AI Organization & Culture,Collaboration & Culture,Are AI adoption challenges discussed transparently across teams?,Global,,TRUE
+Q-AIO-COL-331,S-069,AI Organization & Culture,Collaboration & Culture,Are external AI community engagements supported by the organization?,Global,,TRUE
+Q-AIO-COL-332,S-069,AI Organization & Culture,Collaboration & Culture,Is there an internal communication plan for AI initiatives and updates?,Global,,TRUE
+Q-AIO-COL-333,S-069,AI Organization & Culture,Collaboration & Culture,Are AI project teams incentivized for collaborative innovation?,Global,,TRUE
+Q-AIO-COL-334,S-069,AI Organization & Culture,Collaboration & Culture,Are organizational values updated to reflect the role of AI in business?,Global,,TRUE
+Q-AIO-COM-335,S-070,AI Organization & Culture,Communication & Trust,Are AI success stories regularly shared to motivate and inspire employees?,Global,,TRUE
+Q-AIO-COM-336,S-070,AI Organization & Culture,Communication & Trust,Is an annual pulse survey run to gauge employee trust and perception of AI benefits and risks?,Global,,TRUE
+Q-AIO-COM-337,S-070,AI Organization & Culture,Communication & Trust,Are AI transparency and fairness communicated clearly to customers and partners?,Global,,TRUE
+Q-AIO-AII-338,S-071,AI Organization & Culture,AI Innovation Labs & Incubators,Are internal innovation labs or testbeds open to cross-functional staff for AI experimentation?,"Global, ME",,TRUE
+Q-AIO-AII-339,S-071,AI Organization & Culture,AI Innovation Labs & Incubators,Does the company allocate funding or resources for innovation hackathons or incubators?,"Global, ME",,TRUE
+Q-AIO-AII-340,S-071,AI Organization & Culture,AI Innovation Labs & Incubators,Are experiment outcomes and spin-off ideas regularly evaluated by leadership?,Global,,TRUE
+Q-AIO-DIG-341,S-072,AI Organization & Culture,Digital-First Culture Metrics,Is internal survey/NPS data used to measure digital and AI adoption at all levels?,Global,,TRUE
+Q-AIO-DIG-342,S-072,AI Organization & Culture,Digital-First Culture Metrics,Are the number and rate of new digital/AI experiments tracked and reported?,Global,,TRUE
+Q-AIO-DIG-343,S-072,AI Organization & Culture,Digital-First Culture Metrics,Are digital leadership/AI ambassador roles appointed per business unit?,"Global, ME",,TRUE
+Q-AIO-AIH-344,S-073,AI Organization & Culture,AI-Human Collaboration Models,"Are metrics collected for human-AI collaboration, e.g., “copilot” utilization, human overrides, and trust in AI decisions?","Global, ME",,TRUE
+Q-AIO-AIH-345,S-073,AI Organization & Culture,AI-Human Collaboration Models,Are regular forums held for staff to share feedback and issues on AI-assisted work?,"Global, ME",,TRUE
+Q-AIO-AIH-346,S-073,AI Organization & Culture,AI-Human Collaboration Models,"Are AI-driven role augmentations celebrated, recognized, and tracked in career progression?","Global, ME",,TRUE
